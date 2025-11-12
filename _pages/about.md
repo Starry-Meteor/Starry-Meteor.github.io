@@ -9,6 +9,29 @@ redirect_from:
 
 I‘m currently pursuing my Master’s degree at the FASTLab of Zhejiang University, advised by Professors [Yanjun Cao](https://pages.fast-fire.space/author/yanjun-cao-%E6%9B%B9%E7%87%95%E5%86%9B/), and [Chao Xu](https://person.zju.edu.cn/xu/) and [Fei Gao](https://feigao-robotics.com/),. I completed my undergraduate studies in Electronic and Information Engineering at China Jiliang University, graduating with the distinction of Outstanding Graduate. Now I'm in the process of applying for PhD research programs.
 
+I am deeply fascinated by the future of robotics and dedicated to advancing research in this field. Should you be interested in discussing my work or exploring potential collaborations, please feel free to reach out to me via email at xiangyu.li@zju.edu.cn.
+
+## Research Interests
+ Reinforcement Learning, Robot Control, Electronic and Mechanical Design
+
+## Publications
+
+
+## Competition
+
+#### The National First Prize of The 2021 National Undergraduate Intelligent Vehicle Competition
+Ranking: 3/353, Team Leader
+#### The National First Prize of The 2021 National Undergraduate Electronics Design Contest
+Ranked first in Zhejiang Province, Team Leader
+
+#### The Bronze Award of The Zhejiang Province Internet Plus Competition
+Group Members
+
+## Scholarships
++ National Encouragement scholarship in China Jiling University (2020,2021,2022)
++ Outstanding Student Scholarship of the School in China Jiling University (2019-2023)
+
+## Skills
 
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
